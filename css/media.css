@@ -1,0 +1,165 @@
+@media (max-width: 1200px) {
+  .container {
+    max-width: 1190px;
+  }
+  .wrapper {
+    max-width: 650px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .quote_author {
+    width: 700px;
+    height: 30px;
+    font-size: 20px;
+  }
+  .quote {
+    width: 400px;
+    height: 30px;
+    font-size: 20px;
+  }
+  .wrapper {
+    width: 700px;
+  }
+
+  .save_text {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .quote_author {
+    width: 500px;
+    height: 30px;
+    font-size: 20px;
+  }
+  .quote {
+    width: 400px;
+    height: 30px;
+    font-size: 20px;
+  }
+  .wrapper {
+    width: 500px;
+  }
+
+  .save_text {
+    font-size: 20px;
+  }
+}
+@media (max-width: 720px) {
+  .quote_author {
+    width: 450px;
+    height: 30px;
+    font-size: 20px;
+  }
+  .quote {
+    width: 420px;
+    height: 30px;
+    font-size: 20px;
+  }
+  .wrapper {
+    width: 450px;
+  }
+
+  .save_text {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .quote_author {
+    width: 400px;
+    height: 30px;
+    font-size: 20px;
+  }
+  .quote {
+    width: 320px;
+    height: 30px;
+    font-size: 20px;
+  }
+  .wrapper {
+    width: 400px;
+  }
+
+  .save_text {
+    font-size: 20px;
+  }
+}
+@media (max-width: 420px) {
+  .quote_author {
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+  }
+  .quote {
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+  }
+  .wrapper {
+    width: 300px;
+  }
+
+  .save_text {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 320px) {
+  .quote_author {
+    width: 280px;
+    height: 30px;
+    font-size: 17px;
+  }
+  .quote {
+    width: 280px;
+    height: 30px;
+    font-size: 17px;
+  }
+  .wrapper {
+    width: 280px;
+  }
+
+  .save_text {
+    font-size: 17px;
+  }
+}
+@media (max-width: 280px) {
+  .quote_author {
+    width: 230px;
+    height: 30px;
+    font-size: 17px;
+  }
+  .quote {
+    width: 230px;
+    height: 30px;
+    font-size: 17px;
+  }
+  .wrapper {
+    width: 230px;
+  }
+
+  .save_text {
+    font-size: 17px;
+  }
+}
+
+/* @media (max-width: 240px) {
+  .quote_author {
+    width: 330px;
+    height: 30px;
+    font-size: 15px;
+  }
+  .quote {
+    width: 320px;
+    height: 30px;
+    font-size: 15px;
+  }
+  .wrapper {
+    width: 320px;
+  }
+
+  .save_text {
+    font-size: 15px;
+  }
+} */

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/media.css">
+  <title>project2</title>
+</head>
+<body>
+<div class="container">
+  <div class="wrapper">
+    <div class="text">
+    </div>
+    <div class="text_author"></div>
+  </div>
+  <div class="button">
+    <button class="btn">GO</button>
+  </div>
+  <div class="wrapper_quote">
+    <span class="atribut">дополнительно</span>
+    <div class="wrapper_atribut">
+      <input type="text" class="quote" placeholder="Author" oninput="this.value=this.value.replace(/[^a-zA-ZА-Яа-яЁё ]/g,'')">
+      <input type="text" class="quote_author" placeholder="Quote"
+        oninput="this.value=this.value.replace(/[^a-zA-ZА-Яа-яЁё ]/g,'')">
+      <button class="save"><span class="save_text">save</span></button>
+    </div>
+  </div>
+ 
+</div>
+
+
+  <script src="myJs.js"></script>
+</body>
+</html>
